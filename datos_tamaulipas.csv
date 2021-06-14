@@ -1,0 +1,278 @@
+id_estancia,entidad,municipio,localidad,estatus,nombre_estancia,paterno_responsable,materno_responsable,nombre_responsable,ejercicio_fiscal,menores_inscritos,capacidad_instalada,aseguradora,numero_de_poliza,fecha_operacion
+10105,tamaulipas,ciudad madero,ciudad madero,operacion,arcoiris,izaguirre,juarez,brenda berenice,2008,2,46,grupo mexicano de seguros sa de cv,003-61-07001727-0000-01,15/08/2008
+14133,tamaulipas,reynosa,reynosa,operacion,jireth,lugo,medina,maria norely,2010,3,17,axa seguros sa de cv,RNA757460200,10/01/2010
+16689,tamaulipas,reynosa,reynosa,operacion,centro de desarrollo infantil abejita,medina,velazquez,luz maria,2009,6,32,axa seguros sa de cv,RNA917670000,08/06/2009
+25901,tamaulipas,reynosa,reynosa,operacion,colorin colorado,lopez,garcia,sheyla,2018,8,32,axa seguros sa de cv,ENA897340000,09/10/2018
+23420,tamaulipas,altamira,altamira,operacion,caritas felices,flores,rios,esther de lourdes,2014,9,16,seguros inbursa sa,11601-30078371,03/11/2014
+25839,tamaulipas,reynosa,reynosa,operacion,colores y formas,mendoza,huerta,yareli arylu,2018,9,16,seguros el potosi,RCGE-3267,31/10/2018
+25913,tamaulipas,matamoros,heroica matamoros,operacion,pasitos de colores,macouzet,estrada,nancy jannet,2018,9,60,seguros el potosi,RCGE-3268,31/10/2018
+25925,tamaulipas,victoria,ciudad victoria,operacion,pequenos triunfadores,garcia,hernandez,irma graciela,2018,9,40,axa seguros sa de cv,ENA897460000,09/10/2018
+23419,tamaulipas,altamira,altamira,operacion,chikilandia,chaires,ruiz,rosa isela,2014,10,40,axa seguros sa de cv,ENA900610000,06/11/2014
+25517,tamaulipas,nuevo laredo,nuevo laredo,operacion,grandes logros,rodriguez,vargas,claudia,2017,10,16,grupo mexicano de seguros sa de cv,003-61-07001740-0000-01,01/12/2017
+163,tamaulipas,victoria,ciudad victoria,operacion,gotitas de amor,lopez,castillo,elvia,2007,11,31,grupo nacional provincial,104747258,01/03/2007
+3034,tamaulipas,nuevo laredo,nuevo laredo,operacion,mis angelitos,gonzalez,charnichar,brenda lizeth,2007,11,12,axa seguros sa de cv,ENA893340000,28/09/2007
+16809,tamaulipas,victoria,ciudad victoria,operacion,risas y colores,sanchez,torres,thalia marisol,2010,11,27,seguros inbursa sa,11601-30077808,10/01/2010
+16831,tamaulipas,reynosa,reynosa,operacion,carmelita,iglesias,herrera,clementina,2009,11,56,axa seguros sa de cv,RNA920800001,28/09/2009
+25519,tamaulipas,rio bravo,ciudad rio bravo,operacion,manitas a la obra,pena,avila,pamela nallely,2017,11,16,seguros inbursa sa,16500-30066473,01/12/2017
+25922,tamaulipas,victoria,ciudad victoria,operacion,burbujas,herrera,lopez,irma lizeth,2018,11,40,axa seguros sa de cv,ENA897470000,09/10/2018
+998,tamaulipas,ciudad madero,ciudad madero,operacion,mis pinguitos,martinez,canedo,lucero guadalupe,2007,12,22,axa seguros sa de cv,RNA521250500,16/04/2007
+3134,tamaulipas,tampico,tampico,operacion,bambi,rios,aceves,julissa,2007,12,26,seguros inbursa sa,11601-30045095,28/09/2007
+6982,tamaulipas,reynosa,reynosa,operacion,baby school,hernandez,luna,cynthia,2008,13,59,grupo mexicano de seguros sa de cv,003-61-07001585-0000-01,15/04/2008
+13746,tamaulipas,tampico,tampico,operacion,mowgli,ventura,perez,ma felicitas,2009,13,25,seguros atlas sa,M14-2-49-000006086-0000-0-1,05/01/2009
+16686,tamaulipas,nuevo laredo,nuevo laredo,operacion,gotitas de vida,perez,hernandez,amelia,2009,13,13,grupo mexicano de seguros sa de cv,003-61-07001499-0000-01,01/07/2009
+25528,tamaulipas,victoria,ciudad victoria,operacion,cielo azul,hernandez,morales,pilar,2017,13,16,seguros inbursa sa,11601-30086282,01/12/2017
+25832,tamaulipas,san fernando,san fernando,operacion,chispitas de amor,cardoza,garcia,elsa yolanda,2018,13,40,axa seguros sa de cv,ENA897630000,08/10/2018
+4854,tamaulipas,victoria,ciudad victoria,operacion,maravillas,vazquez,rodriguez,arlen,2007,14,37,seguros atlas sa,M14-2-49-000006083-0000-0-1,03/12/2007
+25022,tamaulipas,nuevo laredo,nuevo laredo,operacion,el jardin de los suenos,villa,ramos,erika ivette,2016,14,32,axa seguros sa de cv,ENA902250000,01/12/2016
+1809,tamaulipas,ciudad madero,ciudad madero,operacion,sandy,mendiola,gil,smirna janeth,2007,15,40,seguros inbursa sa,11601-30045040,15/06/2007
+8477,tamaulipas,ciudad madero,ciudad madero,operacion,happy face,acosta,ley,maria esther,2008,15,27,seguros inbursa sa,11601-30077657,23/06/2008
+16829,tamaulipas,ciudad madero,ciudad madero,operacion,corazon de nino,olguin,garcia,ana karina,2010,15,19,seguros inbursa sa,11601-30053753,10/01/2010
+1881,tamaulipas,tampico,tampico,operacion,danivan,cruz,suarez,laura vanessa,2007,16,54,seguros inbursa sa,11601-30084417,09/07/2007
+1889,tamaulipas,reynosa,reynosa,operacion,pequenos corazones,ponce,estrada,alicia,2007,16,26,axa seguros sa de cv,RNA511900500,31/07/2007
+2242,tamaulipas,matamoros,heroica matamoros,operacion,mi casita,martinez,chavez,gabriela,2007,16,34,grupo mexicano de seguros sa de cv,003-61-07001441-0000-01,20/08/2007
+6537,tamaulipas,altamira,altamira,operacion,mis primeros pasos,hernandez,curiel,luz edith,2008,16,17,seguros inbursa sa,11601-30053138,29/02/2008
+16683,tamaulipas,ciudad madero,ciudad madero,operacion,querubines,montoto,duarte,yolanda,2009,16,28,seguros inbursa sa,11601-30077309,26/05/2009
+16855,tamaulipas,nuevo laredo,nuevo laredo,operacion,los pequenos de eri,garcia,palomino,erika avelina,2009,16,27,grupo mexicano de seguros sa de cv,03-061-07001466-0000-01,08/07/2009
+20818,tamaulipas,victoria,ciudad victoria,operacion,creciendo con amor,villasana,garcia,maria luisa gonzaga,2011,16,22,seguros inbursa sa,11601-30061539,27/10/2011
+22964,tamaulipas,matamoros,heroica matamoros,operacion,pekenines,carrizales,olvera,adolfo,2014,16,28,axa seguros sa de cv,ENA894600000,02/10/2014
+25521,tamaulipas,padilla,barretal,operacion,pedacito de cielo,ramirez,pena,nora edith,2017,16,30,seguros inbursa sa,11601-30086344,01/12/2017
+1885,tamaulipas,tampico,tampico,operacion,angelito de la guarda,alejo,hernandez,jocelyn lizbeth,2007,17,56,seguros inbursa sa,11601-30091061,13/07/2007
+2043,tamaulipas,nuevo laredo,nuevo laredo,operacion,mis angelitos,salazar,arguello,teresita de jesus,2007,17,60,grupo mexicano de seguros sa de cv,003-61-07001515-0000-01,01/06/2007
+2662,tamaulipas,tampico,tampico,operacion,la ranita feliz,castillo,flores,elba karen,2007,17,26,seguros inbursa sa,11601-30077354,03/09/2007
+16687,tamaulipas,nuevo laredo,nuevo laredo,operacion,victoria,garcia,garcia,claudia,2009,17,40,grupo mexicano de seguros sa de cv,003-61-07001502-0000-01,01/07/2009
+22197,tamaulipas,tampico,tampico,operacion,capitan,miranda,juarez,cosbe anahi,2012,17,60,seguros el potosi,RCGE-3648,12/03/2012
+22206,tamaulipas,tampico,tampico,operacion,mundo magico,martinez,guerrero,veronica,2012,17,26,seguros inbursa sa,11601-30084088,12/03/2012
+23418,tamaulipas,altamira,altamira,operacion,mi pequeno angelito,medina,morales,maria magdalena,2014,17,34,seguros inbursa sa,11601-30078264,06/11/2014
+25831,tamaulipas,jimenez,santander jimenez,operacion,divinos momentos,guevara,barrera,martha alicia,2018,17,32,axa seguros sa de cv,ENA897400000,09/10/2018
+1149,tamaulipas,reynosa,reynosa,operacion,hebron,zapata,rangel,ana patricia,2007,18,46,grupo mexicano de seguros sa de cv,003-61-07001039-0000-01,04/06/2007
+6291,tamaulipas,reynosa,reynosa,operacion,flowery ac,porras,lomeli,susana karina,2007,18,48,seguros inbursa sa,16500-30067098,01/11/2007
+13406,tamaulipas,aldama,aldama,operacion,principito,rodriguez,garza,melissa,2009,18,60,seguros el potosi,RCGE-2615,14/01/2009
+25520,tamaulipas,guerrero,nueva ciudad guerrero,operacion,pequenos guerreros,escobar,minor,jahel abigail,2017,18,48,grupo mexicano de seguros sa de cv,003-61-07001738-0000-01,01/12/2017
+1918,tamaulipas,ciudad madero,ciudad madero,operacion,la canasta de moises,pedraza,moreno,julieta,2007,19,36,seguros inbursa sa,11601-30077372,13/07/2007
+4520,tamaulipas,ciudad madero,ciudad madero,operacion,pequenas sonrisas,gallegos,garcia,haydee,2007,19,26,seguros inbursa sa,11601-30077274,03/12/2007
+5470,tamaulipas,matamoros,heroica matamoros,operacion,alopepe,hernandez,gomez,norma magali,2007,19,32,grupo mexicano de seguros sa de cv,003-61-07001468-0000-01,28/12/2007
+1007,tamaulipas,matamoros,heroica matamoros,operacion,los peques,de la fuente,huerta,micheel,2007,20,27,grupo mexicano de seguros sa de cv,003-61-07001460-0000-01,09/05/2007
+1073,tamaulipas,matamoros,heroica matamoros,operacion,carrusel,aviles,quijaz,martha elena,2007,20,27,axa seguros sa de cv,RNA942870000,04/05/2007
+1305,tamaulipas,matamoros,heroica matamoros,operacion,girasoles,rodriguez,requena,maria isabel,2007,20,20,axa seguros sa de cv,RNA936950000,08/06/2007
+2659,tamaulipas,altamira,altamira,operacion,peque baby큦,hernandez,gonzalez,norma beatriz,2007,20,58,seguros inbursa sa,116013-0053370,20/08/2007
+7448,tamaulipas,victoria,ciudad victoria,operacion,alborada,zurita,rico,ruth,2008,20,32,axa seguros sa de cv,ENA893390000,19/05/2008
+8472,tamaulipas,nuevo laredo,nuevo laredo,operacion,dany,mendez,garcia,veronica,2008,20,20,grupo mexicano de seguros sa de cv,003-61-07001461-0000-01,16/06/2008
+10094,tamaulipas,altamira,altamira,operacion,mi primer moises,torres,zapata,sara,2008,20,30,seguros inbursa sa,11601-30090883,11/08/2008
+17583,tamaulipas,victoria,ciudad victoria,operacion,donaji,torres,turrubiates,perla giselle,2010,20,22,seguros el potosi,RCGE-3097,10/01/2010
+1306,tamaulipas,matamoros,heroica matamoros,operacion,getsemani,garcia,arcos,irma,2007,21,30,axa seguros sa de cv,RNA936250000,04/06/2007
+3028,tamaulipas,victoria,benito juarez,operacion,carmelita,ruiz,hernandez,elvia,2007,21,50,seguros inbursa sa,11601-30090794,30/10/2007
+9408,tamaulipas,matamoros,heroica matamoros,operacion,el ratoncito,cerda,gomez,thelma,2008,21,60,grupo mexicano de seguros sa de cv,03-061-07001412-0002-01,17/12/2008
+11556,tamaulipas,victoria,ciudad victoria,operacion,garabatitos,reyes,de la rosa,veronica margarita,2010,21,26,axa seguros sa de cv,ENA893560000,28/12/2010
+16703,tamaulipas,victoria,ciudad victoria,operacion,mundo de bebes,avalos,gonzalez,jonatan neftali,2009,21,58,seguros inbursa sa,11601-30053673,01/07/2009
+16812,tamaulipas,ciudad madero,ciudad madero,operacion,abejitas,maldonado,perez,juana,2010,21,25,seguros inbursa sa,11601-30090534,10/01/2010
+23500,tamaulipas,reynosa,reynosa,operacion,mi casita,zavala,gallegos,olga lidia,2014,21,28,grupo mexicano de seguros sa de cv,003-61-07001367-0000-02,06/11/2014
+24647,tamaulipas,matamoros,heroica matamoros,operacion,happy children,garcia,vazquez,claudia alejandra,2015,21,21,grupo mexicano de seguros sa de cv,003-61-07001689-0000-01,03/11/2015
+25522,tamaulipas,tula,ciudad tula,operacion,el castillo de micky,pelagio,astello,ofelia ivonne,2017,21,40,axa seguros sa de cv,ENA901070000,01/12/2017
+25974,tamaulipas,victoria,ciudad victoria,operacion,chapulines,carreon,medina,brenda fabiola,2018,21,54,axa seguros sa de cv,ENA897240000,09/10/2018
+147,tamaulipas,victoria,ciudad victoria,operacion,capullitos,cabrera,rodriguez,araceli,2007,22,41,seguros inbursa sa,11601-30053450,01/03/2007
+1103,tamaulipas,ciudad madero,ciudad madero,operacion,los pollitos,tenorio,suarez,ana lilia,2007,22,30,seguros el potosi,RCGE-2638,04/06/2007
+1312,tamaulipas,nuevo laredo,nuevo laredo,operacion,gaby,gonzalez,cruz,gabriela de los angeles,2007,22,27,grupo mexicano de seguros sa de cv,003-61-07001507-0000-01,15/06/2007
+3032,tamaulipas,matamoros,heroica matamoros,operacion,pequenos gigantes,moran,munguia,blanca sofia,2007,22,28,grupo mexicano de seguros sa de cv,03-61-07001387-0000-01,10/09/2007
+10457,tamaulipas,victoria,ciudad victoria,operacion,ana maria,arevalo,aguilar,xochitl nereyda,2008,22,33,seguros el potosi,RCGE-2225,21/07/2008
+24177,tamaulipas,rio bravo,ciudad rio bravo,operacion,los munequitos,rosales,torres,diana marisol,2015,22,25,grupo mexicano de seguros sa de cv,003-61-07001341-000-01,26/10/2015
+830,tamaulipas,ciudad madero,ciudad madero,operacion,adonai,varela,campos,leticia,2007,23,60,grupo mexicano de seguros sa de cv,003-61-07001079-0000-02,02/04/2007
+2265,tamaulipas,altamira,altamira,operacion,el-yeled,barrientos,luna,lizeth sarai,2007,23,24,seguros inbursa sa,11601-30062431,27/08/2007
+7839,tamaulipas,ciudad madero,ciudad madero,operacion,mis primeros pasos felices,trueba,alvarado,maria ivonne,2008,23,46,seguros atlas sa,M14-2-49-000006081-0000-0-1,01/06/2008
+14114,tamaulipas,victoria,ciudad victoria,operacion,baby king,mireles,soto,leticia nohemi,2009,23,44,seguros inbursa sa,11601-30052923,01/07/2009
+16698,tamaulipas,victoria,ciudad victoria,operacion,mi casita,salas,pedraza,yuridia elizabeth,2009,23,24,axa seguros sa de cv,ENA892900001,13/07/2009
+20037,tamaulipas,altamira,altamira,operacion,mi primera clase,ramos,acuna,patricia,2010,23,32,seguros inbursa sa,11601-30063118,30/12/2010
+640,tamaulipas,hidalgo,hidalgo,operacion,mis primeros pasos,grimaldo,leos,alma leticia,2007,24,60,seguros inbursa sa,11601-30062912,02/04/2007
+1111,tamaulipas,tampico,tampico,operacion,shalom,cedillo,tellez,zoraida cristina,2007,24,60,seguros inbursa sa,11601-30077504,04/06/2007
+1311,tamaulipas,nuevo laredo,nuevo laredo,operacion,yoyis,ochoa,alfaro,erika diamantina,2007,24,36,grupo mexicano de seguros sa de cv,003-61-07001467-0000-01,15/06/2007
+2058,tamaulipas,tampico,tampico,operacion,peque큦 club,rodriguez,valdez,berenice yazmin,2007,24,24,seguros el potosi,RCGE-2125,20/08/2007
+3027,tamaulipas,ciudad madero,ciudad madero,operacion,mis primeros pasitos,zamora,cruz,dulce victoria,2007,24,55,grupo mexicano de seguros sa de cv,03-61-07001403-0000-01,30/10/2007
+4542,tamaulipas,reynosa,reynosa,operacion,colegio fleishman,alamillo,reyes,karen mariel,2007,24,60,axa seguros sa de cv,RNA511960500,29/10/2007
+6722,tamaulipas,victoria,ciudad victoria,operacion,mariposas de colores,rodriguez,martinez,reyna elizabeth,2008,24,60,grupo mexicano de seguros sa de cv,003-61-07001588-0000-01,31/03/2008
+7726,tamaulipas,victoria,ciudad victoria,operacion,mi pequeno saltarin,jimenez,fuentes,yoymi lizeth,2008,24,35,axa seguros sa de cv,ENA893600000,01/05/2008
+13577,tamaulipas,ciudad madero,ciudad madero,operacion,rayito de sol,ponce,najera,maria de jesus,2009,24,34,seguros el potosi,RCGE-1014,19/01/2009
+13600,tamaulipas,tampico,tampico,operacion,caritas felices,lopez,perez,janeth,2009,24,26,seguros el potosi,RCGE-1034,01/09/2009
+13697,tamaulipas,altamira,altamira,operacion,el castillo magico,escalante,trejo,liliana beatriz,2010,24,30,seguros el potosi,RCGE-1340,29/12/2010
+13913,tamaulipas,tampico,tampico,operacion,jugando y aprendiendo,padron,salinas,ma guadalupe,2009,24,29,seguros inbursa sa,11601-30061968,19/01/2009
+16679,tamaulipas,aldama,aldama,operacion,mundo feliz,de los reyes,gonzalez,zulema,2009,24,35,seguros inbursa sa,11601-30076881,01/07/2009
+17685,tamaulipas,victoria,ciudad victoria,operacion,spapkes,garcia,castillo,ma del refugio,2009,24,42,seguros el potosi,RCGE-1736,29/09/2009
+20985,tamaulipas,tampico,tampico,operacion,kalisa kids,balderas,hernandez,maria de lourdes,2012,24,51,seguros inbursa sa,11601-30077176,12/03/2012
+22187,tamaulipas,altamira,altamira,operacion,gotitas de amor,marquez,valle,leticia,2012,24,25,seguros inbursa sa,11601-30069602,20/03/2012
+22192,tamaulipas,rio bravo,rio bravo,operacion,baby planet,flores,salinas,claudia isela,2012,24,40,seguros inbursa sa,16500-30062985,14/02/2012
+22293,tamaulipas,matamoros,heroica matamoros,operacion,mundo de colores,rivera,mendoza,juana maria,2012,24,27,grupo mexicano de seguros sa de cv,003-61-07001489-0000-01,05/03/2012
+25527,tamaulipas,victoria,ciudad victoria,operacion,cuidados de mama,perez,villalobos,marysa jacaranda,2017,24,39,axa seguros sa de cv,ENA899960000,01/12/2017
+25886,tamaulipas,victoria,ciudad victoria,operacion,colibries,carrizales,vega,ma joaquina,2018,24,32,axa seguros sa de cv,ENA897210000,09/10/2018
+2262,tamaulipas,llera,llera de canales,operacion,caritas felices,monreal,mendez,maria beatriz,2007,25,26,seguros atlas sa,M14-2-49-6084,27/08/2007
+3135,tamaulipas,altamira,altamira,operacion,mi pequeno angelito,hernandez,velazquez,raul,2007,25,38,seguros inbursa sa,11601-30077032,30/10/2007
+7919,tamaulipas,tampico,tampico,operacion,tu estancia,vazquez,gutierrez,belem,2008,25,33,seguros inbursa sa,11601-30076774,01/07/2008
+16845,tamaulipas,matamoros,heroica matamoros,operacion,estancia infantil mis angelitos,garza,ayala,beatriz veronica,2009,25,25,axa seguros sa de cv,RNA936100001,03/08/2009
+25525,tamaulipas,victoria,ciudad victoria,operacion,mi castillito,lopez,garcia,emma paola,2017,25,32,axa seguros sa de cv,ENA901890000,01/12/2017
+1307,tamaulipas,miguel aleman,ciudad miguel aleman,operacion,mi aventura,vazquez,rodriguez,maribel,2007,26,49,grupo mexicano de seguros sa de cv,03-061-07001281-0000-02,09/05/2007
+1309,tamaulipas,reynosa,reynosa,operacion,baby home,machado,perez,vianey,2007,26,29,axa seguros sa de cv,RNA511540500,02/05/2007
+1811,tamaulipas,tampico,tampico,operacion,estrellitas luminosas,carriles,oviedo,hermelinda,2007,26,26,seguros inbursa sa,1.16E+12,15/06/2007
+2670,tamaulipas,tampico,tampico,operacion,rincon de amor,montelongo,loredo,carmen del socorro,2007,26,26,seguros inbursa sa,11601-30089920,03/09/2007
+6580,tamaulipas,tampico,tampico,operacion,el carino de mama,jerez,garcia,maria isabel,2008,26,30,seguros inbursa sa,11601-30070707,29/02/2008
+18245,tamaulipas,matamoros,heroica matamoros,operacion,hakuna matata,jaramillo,vazquez,dolores,2010,26,31,axa seguros sa de cv,RNA936070000,10/01/2010
+22195,tamaulipas,altamira,altamira,operacion,mi segunda casita,gonzalez,garcia,ma felix,2012,26,28,seguros inbursa sa,11601-30090366,16/03/2012
+22309,tamaulipas,altamira,altamira,operacion,los pekes,calderon,olvera,ana laura,2012,26,36,seguros el potosi,RCGE-1074,21/05/2012
+23421,tamaulipas,altamira,altamira,operacion,magia infantil,del angel,salas,estela,2014,26,38,seguros inbursa sa,11601-30063859,06/11/2014
+24430,tamaulipas,victoria,ciudad victoria,operacion,pasitos gigantes,mancilla,rodriguez,beatriz adriana,2015,26,29,seguros inbursa sa,11601-30078807,03/11/2015
+673,tamaulipas,altamira,altamira,operacion,el arca de noe,viveros,nunez,felipa,2007,27,27,grupo mexicano de seguros sa de cv,003-61-07001479-0000-01,02/04/2007
+1178,tamaulipas,rio bravo,ciudad rio bravo,operacion,querubines,navarro,garcia,maria,2007,27,30,grupo mexicano de seguros sa de cv,003-61-07001417-0000-01,25/05/2007
+2009,tamaulipas,altamira,altamira,operacion,alegrias portes gil,boeta,gonzalez,karla melissa,2007,27,41,seguros el potosi,RCGE-1018,09/07/2007
+16694,tamaulipas,tampico,tampico,operacion,crayolas,ibarra,carrillo,laura arendy,2009,27,28,seguros inbursa sa,11601-30062495,01/07/2009
+22186,tamaulipas,tampico,tampico,operacion,centro educativo peques,diaz,constantino,ana lilia,2012,27,27,seguros inbursa sa,11601-30077620,21/05/2012
+5478,tamaulipas,matamoros,heroica matamoros,operacion,villa del rey,sandoval,paz,ma josefina,2007,28,38,grupo mexicano de seguros sa de cv,003-61-07001299-0000-01,28/12/2007
+7443,tamaulipas,victoria,ciudad victoria,operacion,vivan los ninos,morales,chavez,nancy adriana,2008,28,31,seguros inbursa sa,11601-30052969,06/05/2008
+10454,tamaulipas,nuevo laredo,nuevo laredo,operacion,el jardin del eden,herrera,bolanos,mayra guadalupe,2008,28,30,grupo mexicano de seguros sa de cv,003-61-07001064-0000-02,22/12/2008
+16196,tamaulipas,matamoros,heroica matamoros,operacion,mimoso,ramirez,castro,teresita,2009,28,47,grupo mexicano de seguros sa de cv,003-61-07001438-0000-01,09/02/2009
+19247,tamaulipas,matamoros,heroica matamoros,operacion,el mundo de las hadas,estrada,palacios,marianela,2011,28,30,axa seguros sa de cv,RNA943960000,03/01/2011
+22184,tamaulipas,tampico,tampico,operacion,letras magicas,ovalle,mendez,luz angelica,2012,28,45,seguros el potosi,RCGE-1343,19/03/2012
+23718,tamaulipas,altamira,altamira,operacion,pequeno angel travieso,guerrero,lopez,beatriz adriana,2014,28,31,seguros el potosi,RCGE-2209,03/11/2014
+1908,tamaulipas,rio bravo,ciudad rio bravo,operacion,mariel,olivares,sainz,luz esthela,2007,29,60,grupo mexicano de seguros sa de cv,003-61-07001416-0000-01,11/07/2007
+1914,tamaulipas,matamoros,heroica matamoros,operacion,ilusion de amor,rodriguez,bisnes,merle del carmen,2007,29,31,grupo mexicano de seguros sa de cv,03-061-07001437-0000-01,13/07/2007
+2235,tamaulipas,tampico,tampico,operacion,jardin magico,guerra,zubiaga,juana,2007,29,60,seguros inbursa sa,11601-30091034,07/09/2007
+2247,tamaulipas,el mante,ciudad mante,operacion,campanita,escamilla,amaya,rosa veronica,2007,29,37,seguros el potosi,RCGE-1098,24/08/2007
+7728,tamaulipas,reynosa,reynosa,operacion,mi mundo feliz,medina,velazquez,yeylhen alejandra,2008,29,32,axa seguros sa de cv,ENA893070000,02/06/2008
+10434,tamaulipas,victoria,ciudad victoria,operacion,el mundo de los ninos,hernandez,palomo,yuliana,2008,29,40,seguros inbursa sa,11601-30061012,17/12/2008
+10537,tamaulipas,el mante,ciudad mante,operacion,las margaritas,servin,lopez,karla soledad,2008,29,30,seguros el potosi,RCGE-1359,01/12/2008
+10716,tamaulipas,ciudad madero,ciudad madero,operacion,manitas magicas,guerrero,vargas,yesenia azucena,2009,29,32,seguros inbursa sa,11601-30077522,01/01/2009
+16806,tamaulipas,ciudad madero,ciudad madero,operacion,ab alegrias,olvera,jimenez,nadia yazmin,2010,29,40,seguros inbursa sa,11601-30076925,10/01/2010
+17574,tamaulipas,victoria,ciudad victoria,operacion,mi mundo de caramelo,rodriguez,rodriguez,ma margarita,2010,29,31,seguros inbursa sa,11601-30053389,10/01/2010
+20078,tamaulipas,matamoros,heroica matamoros,operacion,carrusel de las americas,zavala,ramos,brenda lizeth,2010,29,40,grupo mexicano de seguros sa de cv,003-61-07001455-0000-01,28/12/2010
+24178,tamaulipas,camargo,ciudad camargo,operacion,la edad de oro,diarte,espinoza,laura elena,2015,29,48,grupo mexicano de seguros sa de cv,03-061-07001690-0000-01,01/10/2015
+1295,tamaulipas,aldama,aldama,operacion,anos maravillosos,moreno,martinez,maribel,2007,30,45,seguros inbursa sa,11601-30044951,11/06/2007
+2216,tamaulipas,nuevo laredo,nuevo laredo,operacion,mis querubines,garcia,berver,ma concepcion,2007,30,30,grupo mexicano de seguros sa de cv,003-61-07001514-0000-01,28/08/2007
+16693,tamaulipas,tampico,tampico,operacion,carita feliz,mata,perez,aracely lizbeth,2009,30,30,seguros inbursa sa,11601-30052406,01/07/2009
+16856,tamaulipas,victoria,ciudad victoria,operacion,semillitas,morquecho,alonso,norma alicia,2009,30,60,seguros el potosi,RCGE-1781,18/08/2009
+18242,tamaulipas,victoria,ciudad victoria,operacion,peluches,rodriguez,parra,rosa maria,2010,30,44,seguros inbursa sa,11601-30054351,10/01/2010
+20606,tamaulipas,altamira,altamira,operacion,suenos y esperanzas,cruz,garcia,maria del carmen,2011,30,30,seguros inbursa sa,11601-30083016,27/09/2011
+24149,tamaulipas,reynosa,reynosa,operacion,centro de desarrollo infantil ninos tamaulipecos,martinez,cano,marisol,2015,30,60,grupo mexicano de seguros sa de cv,003-61-07001413-0000-01,01/10/2015
+24979,tamaulipas,gonzalez,estacion manuel (ursulo galvan),operacion,el trenecito,garcia,cordova,carolina,2016,30,30,seguros inbursa sa,11601-30078629,17/10/2016
+24987,tamaulipas,soto la marina,soto la marina,operacion,caracolitos,mares,magana,yuridia lizbeth,2016,30,32,axa seguros sa de cv,ENA898590000,10/11/2016
+1308,tamaulipas,reynosa,reynosa,operacion,my circus,palacios,sanchez,artemisa,2007,31,60,grupo mexicano de seguros sa de cv,03-061-07001439-0000-01,09/05/2007
+2033,tamaulipas,matamoros,heroica matamoros,operacion,pingos,sanchez,perez,zobeida alicia,2007,31,31,axa seguros sa de cv,RNA936240000,13/07/2007
+2254,tamaulipas,altamira,altamira,operacion,sonrisas y colores,lorenzo,gonzalez,ivonne maria,2007,31,35,seguros inbursa sa,11601-30062002,24/08/2007
+2272,tamaulipas,tampico,tampico,operacion,el papalote,soto,martinez,maria concepcion,2007,31,59,grupo mexicano de seguros sa de cv,003-61-07001730-0000-01,15/08/2007
+4654,tamaulipas,tampico,tampico,operacion,la maquinita,medrano,hernandez,mercedes,2007,31,52,seguros inbursa sa,11601-30076854,15/10/2007
+6606,tamaulipas,aldama,aldama,operacion,la casita de los peques,olivarez,tadeo,monica milagro,2008,31,40,seguros inbursa sa,11601-30046487,29/02/2008
+16830,tamaulipas,tampico,tampico,operacion,carrusel,saldana,perez,maria elena,2009,31,34,seguros inbursa sa,11601-30077498,31/08/2009
+18241,tamaulipas,victoria,ciudad victoria,operacion,mundo de colores,vega,cordova,karla ivette,2010,31,39,axa seguros sa de cv,ENA891670000,10/01/2010
+25518,tamaulipas,victoria,ciudad victoria,operacion,los pollitos de mama,escobar,vazquez,nereyda,2017,31,32,axa seguros sa de cv,ENA900530000,01/12/2017
+999,tamaulipas,el mante,ciudad mante,operacion,paraiso infantil,rubio,alarcon,perla elizabeth,2007,32,34,seguros el potosi,RCGE-1132,28/05/2007
+1825,tamaulipas,ciudad madero,ciudad madero,operacion,caritas felices,sanchez,tellez,yolanda esther,2007,32,37,seguros el potosi,RCGE-1008,29/06/2007
+4919,tamaulipas,abasolo,abasolo,operacion,pitufines,narvaez,de la fuente,oralia,2007,32,32,axa seguros sa de cv,ENA892920000,03/12/2007
+6417,tamaulipas,victoria,ciudad victoria,operacion,chamakitou's,rodarte,reynoso,brenda janeeth,2008,32,60,seguros inbursa sa,11601-30069782,14/01/2008
+7915,tamaulipas,tampico,tampico,operacion,hugo paco y luis 큦chool�,martinez,compean,judith,2008,32,56,seguros inbursa sa,11601-30077960,02/06/2008
+8393,tamaulipas,victoria,ciudad victoria,operacion,pequenos tesoros,mendez,osorio,claudia elizabeth,2008,32,44,seguros inbursa sa,11601-30085764,03/06/2008
+9407,tamaulipas,victoria,ciudad victoria,operacion,baby einstein,ornelas,zapata,melva nelly,2008,32,32,seguros atlas sa,M14-2-49-0000602-0000-0-1,18/08/2008
+16836,tamaulipas,victoria,ciudad victoria,operacion,chipitin,hernandez,uribe,maria del carmen,2009,32,38,axa seguros sa de cv,ENA892870000,07/08/2009
+18247,tamaulipas,matamoros,heroica matamoros,operacion,mis chiquitines,rodriguez,rivera,laura citlally,2010,32,37,grupo mexicano de seguros sa de cv,03-061-07001458-0000-01,10/01/2010
+22188,tamaulipas,altamira,altamira,operacion,ardillas traviesas,rodriguez,alfaro,xiomara yaneth,2012,32,37,seguros inbursa sa,11601-30052521,19/03/2012
+22189,tamaulipas,el mante,ciudad mante,operacion,los amiguitos de abby,melgarejo,martinez,juana abigail,2012,32,28,seguros el potosi,RCGE-1365,08/03/2012
+25016,tamaulipas,victoria,ciudad victoria,operacion,chavitos,serna,ibarra,eliodoro,2016,32,42,seguros el potosi,RCGE-2691,09/11/2016
+647,tamaulipas,reynosa,reynosa,operacion,caritas felices,cruz,peralta,patricia,2007,33,38,grupo mexicano de seguros sa de cv,003-61-07001621-0000-01,02/04/2007
+1114,tamaulipas,victoria,ciudad victoria,operacion,elmo,sanchez,granados,victoria,2007,33,51,seguros el potosi,RCGE-1783,11/05/2007
+1304,tamaulipas,reynosa,reynosa,operacion,manitas magicas,reyna,torres,angelica maria,2007,33,53,axa seguros sa de cv,RNA510020500,04/06/2007
+3029,tamaulipas,nuevo laredo,nuevo laredo,operacion,nino vulnerable,ramirez,enciso,hector,2007,33,60,grupo mexicano de seguros sa de cv,003-61-07001509-0000-01,28/09/2007
+7168,tamaulipas,victoria,ciudad victoria,operacion,los duendes,colunga,medrano,ma de jesus,2008,33,44,seguros inbursa sa,11601-30084541,22/04/2008
+16682,tamaulipas,tampico,tampico,operacion,bambinos,sanchez,bautista,flor bella,2009,33,34,seguros inbursa sa,11601-30077915,06/07/2009
+16696,tamaulipas,tampico,tampico,operacion,el pais de lory,moreno,ruiz,maria cristina,2009,33,56,seguros inbursa sa,11601-30061600,06/07/2009
+24205,tamaulipas,gonzalez,gonzalez,operacion,los amiguitos de mabel,vargas,guerra,bianca edith,2015,33,36,seguros inbursa sa,11601-30070850,01/10/2015
+4746,tamaulipas,tampico,tampico,operacion,pequenos pasos,gutierrez,jimenez,silvia margarita,2007,34,43,seguros inbursa sa,11601-30053815,10/12/2007
+5164,tamaulipas,ciudad madero,ciudad madero,operacion,ninos de tantoyuca,ceballos,jimenez,maricruz,2007,34,34,seguros inbursa sa,11601-30063252,01/12/2007
+17592,tamaulipas,gonzalez,gonzalez,operacion,mundo de colores,cortez,arguello,edna lorena,2010,34,35,seguros inbursa sa,11601-30053290,10/01/2010
+19244,tamaulipas,victoria,ciudad victoria,operacion,mi casita de caramelo,perez,avalos,saida nery,2010,34,36,seguros inbursa sa,11601-30069746,29/12/2010
+19652,tamaulipas,victoria,ciudad victoria,operacion,suenos magicos,vela,juarez,norma alicia,2010,34,34,axa seguros sa de cv,ENA893210000,28/12/2010
+20816,tamaulipas,reynosa,reynosa,operacion,neonatzin,rivera,velazquez,aida aracely,2014,34,40,grupo mexicano de seguros sa de cv,03-061-07001462-0000-01,01/11/2014
+22181,tamaulipas,reynosa,reynosa,operacion,estancia infantil doki,franco,franco,ana grisel,2012,34,56,axa seguros sa de cv,RNA510010500,28/02/2012
+22191,tamaulipas,reynosa,reynosa,operacion,centro educativo nuevo victoria,ramirez,peralta,janet alicia,2012,34,60,axa seguros sa de cv,RNA942040000,07/02/2012
+2015,tamaulipas,victoria,ciudad victoria,operacion,jungle babies,hernandez,zuniga,norma,2007,35,48,seguros inbursa sa,11601-30053227,23/07/2007
+7548,tamaulipas,victoria,ciudad victoria,operacion,eco-kids,lara,velador,nereyda abigail,2008,35,50,axa seguros sa de cv,ENA894190000,06/05/2008
+10106,tamaulipas,altamira,altamira,operacion,centro de educacion personalizada terranova,garcia,olvera,magdalena,2008,35,38,seguros inbursa sa,11601-30076523,11/08/2008
+16699,tamaulipas,victoria,ciudad victoria,operacion,la sinagoga del bebe,flores,zepeda,antonia,2009,35,40,axa seguros sa de cv,ENA891880000,08/06/2009
+17589,tamaulipas,victoria,ciudad victoria,operacion,ninos felices,muniz,castaneda,katia azucena,2010,35,41,seguros inbursa sa,11601-30084925,10/01/2010
+20561,tamaulipas,matamoros,heroica matamoros,operacion,discovery world,chavez,sosa,perla marina,2012,35,60,grupo mexicano de seguros sa de cv,003-61-07001469-0000-01,02/04/2012
+20868,tamaulipas,altamira,altamira,operacion,mi dulce caricia,celerino,sequera,perla elena,2011,35,36,seguros inbursa sa,11601-30052273,01/12/2011
+22305,tamaulipas,hidalgo,estacion santa engracia,operacion,sonrisas de bebe,gaytan,ruiz,ma guadalupe,2012,35,36,seguros inbursa sa,11601-30053806,08/03/2012
+25524,tamaulipas,tampico,tampico,operacion,bety큦 house,cervantes,mar,liliana,2017,35,52,axa seguros sa de cv,ENA902370000,01/12/2017
+386,tamaulipas,victoria,ciudad victoria,operacion,carita feliz,sifuentes,reyes,ma gloria,2007,36,39,seguros inbursa sa,11601-30052709,15/03/2007
+1901,tamaulipas,reynosa,reynosa,operacion,mundo magico,corona,romero,alicia,2007,36,52,grupo mexicano de seguros sa de cv,03-061-0700172240002-01,13/07/2007
+2268,tamaulipas,matamoros,heroica matamoros,operacion,little kids,villada,celis,beatriz,2007,36,60,grupo mexicano de seguros sa de cv,03-061-07001440-0000-01,20/08/2007
+3206,tamaulipas,victoria,ciudad victoria,operacion,gerokid큦,vallejo,grimaldo,patricia,2007,36,37,seguros inbursa sa,11601-30076701,30/10/2007
+7740,tamaulipas,victoria,ciudad victoria,operacion,angelitos felices,zuniga,chavez,juana maria,2008,36,51,axa seguros sa de cv,ENA893490000,02/06/2008
+19273,tamaulipas,altamira,altamira,operacion,estrella fugaz,nieto,mar,ruth margarita,2010,36,46,seguros inbursa sa,11601-30077513,30/12/2010
+1313,tamaulipas,tampico,tampico,operacion,roma,vazquez,rosas,jeyely jocabeth,2007,37,50,seguros inbursa sa,11601-30052264,13/07/2007
+7159,tamaulipas,victoria,ciudad victoria,operacion,mi pequeno mundo,cervantes,alvarez,teresa de jesus,2008,37,57,seguros el potosi,RCGE-1656,29/04/2008
+10456,tamaulipas,victoria,ciudad victoria,operacion,ninos felices,turrubiates,rodriguez,martha,2008,37,52,seguros inbursa sa,11601-30060898,17/12/2008
+19254,tamaulipas,altamira,altamira,operacion,angelitos,del castillo,moctezuma,ma del rosario,2010,37,37,axa seguros sa de cv,RNA528580500,16/12/2010
+22190,tamaulipas,tampico,tampico,operacion,candy,torres,cruz amen,fernando rosendo,2012,37,47,seguros inbursa sa,11601-30083917,02/04/2012
+22194,tamaulipas,victoria,ciudad victoria,operacion,kids together,berrones,lopez,jessica marlem,2012,37,40,seguros inbursa sa,11601-30053432,07/05/2012
+24252,tamaulipas,guemez,guemez,operacion,manitas,guillen,medrano,yuliam guadalupe,2015,37,58,axa seguros sa de cv,ENA901910000,20/10/2015
+7815,tamaulipas,tampico,tampico,operacion,creciendo felices,calles,bautista,graciela,2008,38,45,seguros inbursa sa,11601-30081973,02/06/2008
+19370,tamaulipas,matamoros,heroica matamoros,operacion,instituto infantil montessori,de la garza,hinojosa,nora elida,2010,38,40,grupo mexicano de seguros sa de cv,003-61-07001365-0000-02,29/12/2010
+20842,tamaulipas,victoria,ciudad victoria,operacion,kaddi,wvalle,vazquez,karina guadalupe,2011,38,54,axa seguros sa de cv,ENA894090000,26/10/2011
+151,tamaulipas,reynosa,reynosa,operacion,campanita,granados,requena,josefina,2007,39,45,axa seguros sa de cv,ENA892670000,01/03/2007
+2055,tamaulipas,reynosa,reynosa,operacion,rayito de sol,pena,garcia,fabiola margarita,2007,39,40,axa seguros sa de cv,RNA511990500,02/07/2007
+5472,tamaulipas,el mante,ciudad mante,operacion,pooh y sus amigos,hernandez,guevara,maria rosario,2007,39,40,seguros el potosi,RCGE-264,28/12/2007
+13889,tamaulipas,rio bravo,rio bravo,operacion,pequenos exploradores,mendez,perez,lorenza,2009,39,60,seguros inbursa sa,16500-30060415,13/07/2009
+16700,tamaulipas,victoria,ciudad victoria,operacion,mis pequenos angelitos,nieto,pulido,griselda,2009,39,41,seguros el potosi,RCGE-2605,07/07/2009
+16701,tamaulipas,victoria,ciudad victoria,operacion,maryalex,maldonado,gomez,monica berenice,2009,39,43,seguros inbursa sa,11601-30076630,01/07/2009
+22180,tamaulipas,xicotencatl,xicotencatl,operacion,tu estancia,lopez,garcia,juanita guadalupe,2012,39,39,seguros el potosi,RCGE-1078,05/03/2012
+997,tamaulipas,victoria,ciudad victoria,operacion,mis angelitos,delgado,molina,gregoria mayeli,2007,40,45,seguros inbursa sa,11601-30053361,02/04/2007
+2214,tamaulipas,jaumave,jaumave,operacion,los chiquitines,flores,carrizalez,nora hilda,2007,40,60,seguros inbursa sa,11601-30090758,27/08/2007
+9708,tamaulipas,xicotencatl,xicotencatl,operacion,mi palacio,barron,gutierrez,hortencia,2008,40,43,seguros el potosi,RCGE-1004,22/12/2008
+13526,tamaulipas,padilla,nueva villa de padilla,operacion,mickey y sus amigos,fuentes,martinez,marisol,2009,40,40,seguros inbursa sa,11601-30062333,05/01/2009
+16835,tamaulipas,tampico,tampico,operacion,mil smiles,alvarez,ayala,ilssin azalia,2009,40,40,seguros el potosi,RCGE-1730,30/07/2009
+23551,tamaulipas,rio bravo,ciudad rio bravo,operacion,los chinchulines,mendizabal,roman,maricela,2014,40,51,seguros inbursa sa,11601-30071644,06/11/2014
+994,tamaulipas,reynosa,reynosa,operacion,el arca de noe,garcia,espericueta,yesenia,2007,41,43,axa seguros sa de cv,ENA899710000,02/04/2007
+22193,tamaulipas,san fernando,san fernando,operacion,mi nidito,garcia,martinez,susana lorena,2012,41,45,grupo mexicano de seguros sa de cv,003-61-07001673-000-01,09/03/2012
+2658,tamaulipas,reynosa,reynosa,operacion,mi mundo magico,rodriguez,loera,maria martha,2007,42,46,grupo mexicano de seguros sa de cv,003-61-07001429-0000-01,20/08/2007
+1911,tamaulipas,matamoros,heroica matamoros,operacion,la ranita feliz,garza,garza,paula leticia,2007,43,56,axa seguros sa de cv,RNA936230000,13/07/2007
+5971,tamaulipas,victoria,ciudad victoria,operacion,mi alegria,rodriguez,sandoval,laura concepcion,2007,43,60,seguros inbursa sa,11601-30070379,28/12/2007
+24956,tamaulipas,victoria,ciudad victoria,operacion,rinconcito de luz,zavala,reyes,karla patricia,2016,43,53,seguros inbursa sa,11601-30086273,01/12/2016
+135,tamaulipas,victoria,ciudad victoria,operacion,mi angelito azul,moreno,de leon,mireya,2007,44,60,seguros inbursa sa,11601-30076612,01/03/2007
+7746,tamaulipas,ciudad madero,ciudad madero,operacion,angelitos felices,wong,martinez,arturo,2008,44,46,seguros inbursa sa,11601-30077050,01/06/2008
+26137,tamaulipas,el mante,ciudad mante,operacion,caritas felices,rodriguez,rodriguez,dulce maria,2018,44,44,seguros el potosi,RCGE-1024,09/10/2018
+6615,tamaulipas,victoria,ciudad victoria,operacion,melody,trejo,zuniga,gloria alicia,2008,45,60,seguros inbursa sa,11601-30060317,29/02/2008
+16680,tamaulipas,altamira,altamira,operacion,eben-ezer,jimenez,garcia,araceli,2009,45,60,seguros inbursa sa,11601-30053628,01/07/2009
+16840,tamaulipas,altamira,altamira,operacion,carrusel de altamira,zuniga,davila,alma leticia,2010,45,60,seguros el potosi,RCGE-1768,10/01/2010
+24136,tamaulipas,rio bravo,ciudad rio bravo,operacion,colorines,castilla,cruz,martha patricia,2015,45,60,grupo mexicano de seguros sa de cv,003-61-07001310-0000-02,01/10/2015
+369,tamaulipas,victoria,ciudad victoria,operacion,casita feliz 2,berrones,alonzo,maria gabriela,2007,46,46,seguros inbursa sa,11601-30053717,08/03/2007
+1000,tamaulipas,ciudad madero,ciudad madero,operacion,preciosos momentos,sanchez,vazquez,rebeca,2007,46,51,seguros inbursa sa,11601-30083436,09/05/2007
+1088,tamaulipas,victoria,ciudad victoria,operacion,mis primeras letras,balderas,medina,griselda,2007,46,60,seguros el potosi,RCGE-1747,09/05/2007
+1874,tamaulipas,san fernando,san fernando,operacion,suenos de angel,reyes,jimenez,evangelina,2007,47,60,grupo mexicano de seguros sa de cv,003-61-07001584-0000-01,09/07/2007
+16209,tamaulipas,jimenez,santander jimenez,operacion,hi5,sanchez,martinez,ma del refugio,2009,47,47,grupo mexicano de seguros sa de cv,03-061-07001587-0000-01,05/01/2009
+181,tamaulipas,victoria,ciudad victoria,operacion,casita feliz 1,portillo,salazar,sofia lidia,2007,48,60,seguros inbursa sa,11601-30053405,08/03/2007
+1095,tamaulipas,tula,ciudad tula,operacion,mundo de juguete,garcia,zuniga,maria candelaria,2007,48,60,seguros inbursa sa,11601-30062690,04/06/2007
+16811,tamaulipas,tampico,tampico,operacion,rayito de luz,gonzalez,salem,dora ivett,2009,48,50,seguros el potosi,RCGE-1028,16/09/2009
+16825,tamaulipas,tampico,tampico,operacion,espacio magico de los peques,gomez,ramirez,cinthia yameli,2009,48,60,grupo mexicano de seguros sa de cv,03-061-07001488-0000-01,28/09/2009
+20830,tamaulipas,el mante,ciudad mante,operacion,dbanhi,rodriguez,rodriguez,teresa de jesus,2011,48,49,seguros el potosi,RCGE-1363,01/11/2011
+25526,tamaulipas,san fernando,san fernando,operacion,mundo de sonrisas,guajardo,zuniga,jeinny janeth,2017,48,48,grupo mexicano de seguros sa de cv,003-61-07001735-0000-01,01/12/2017
+6734,tamaulipas,victoria,ciudad victoria,operacion,randall,de los santos,rodriguez,sara isabel,2008,49,55,seguros inbursa sa,11601-30069666,03/03/2008
+10101,tamaulipas,victoria,ciudad victoria,operacion,dulce alegria,becerra,hernandez,esperanza,2008,49,54,seguros inbursa sa,11601-30062896,14/07/2008
+16685,tamaulipas,matamoros,heroica matamoros,operacion,smile baby,saldana,aguilar,maria de la luz,2009,49,49,grupo mexicano de seguros sa de cv,003-61-07001436-0000-01,10/07/2009
+1008,tamaulipas,matamoros,heroica matamoros,operacion,las abejitas,martinez,vazquez,elvia,2007,50,50,grupo mexicano de seguros sa de cv,03-061-07001463-0000-01,11/05/2007
+1862,tamaulipas,reynosa,reynosa,operacion,las fuentes,guerrero,azocar,evelyn citlaly,2007,51,60,axa seguros sa de cv,RNA511510500,04/06/2007
+2031,tamaulipas,tampico,tampico,operacion,pequitas,aguirre,toledo,juana patricia,2007,51,60,seguros inbursa sa,11601-30070315,23/07/2007
+2672,tamaulipas,ciudad madero,ciudad madero,operacion,mis primeras sonrisas,barron,coronado,lucero del carmen,2007,51,56,seguros inbursa sa,11601-30077265,03/09/2007
+22976,tamaulipas,reynosa,reynosa,operacion,la casita de mama,contreras,arredondo,marco aurelio,2014,51,60,axa seguros sa de cv,RNA943750000,01/11/2014
+3023,tamaulipas,tampico,tampico,operacion,ven corazon,barragan,chavarria,berenice,2007,52,54,seguros inbursa sa,11601-30084417,30/10/2007
+9257,tamaulipas,ciudad madero,ciudad madero,operacion,abejitas,hernandez,fraustro,maria elena isabel,2008,52,53,seguros atlas sa,M14-2-49-000006077-0000-0-1,01/07/2008
+16808,tamaulipas,altamira,altamira,operacion,bbclub,castaneda,cruz,veronica andrea,2009,53,60,seguros inbursa sa,11601-30076747,22/09/2009
+1906,tamaulipas,valle hermoso,valle hermoso,operacion,campanita,lopez,rodriguez,reina,2007,54,60,grupo mexicano de seguros sa de cv,03-061-07001443-0000-01,13/07/2007
+3033,tamaulipas,altamira,altamira,operacion,joyce kids,aleman,gomez,ana lilia,2007,54,60,seguros inbursa sa,11601-30077336,01/10/2007
+10137,tamaulipas,tampico,tampico,operacion,pequenos genios,pelaez,oliva,estuardo miguel,2008,54,58,seguros inbursa sa,11601-30070805,11/08/2008
+406,tamaulipas,victoria,ciudad victoria,operacion,instituto sor juana ines de la cruz,huerta,limon,paulina monserrat,2007,55,60,seguros inbursa sa,11601-30087325,15/03/2007
+986,tamaulipas,victoria,ciudad victoria,operacion,estancia familiar estrellitas de lucero,obregon,reyes,maria,2007,55,60,seguros inbursa sa,11601-30052451,02/04/2007
+18232,tamaulipas,victoria,ciudad victoria,operacion,suenos de caramelo,hernandez,morales,marina,2010,55,60,seguros inbursa sa,11601-30076667,10/01/2010
+578,tamaulipas,tampico,tampico,operacion,alegrias,rivera,gonzalez,zita yadira,2007,56,60,seguros el potosi,RCGE-2177,02/04/2007
+1919,tamaulipas,ciudad madero,ciudad madero,operacion,mi pequeno querubin,caceres,guerrero,monica liliana,2007,56,60,seguros inbursa sa,11601-30076550,09/07/2007
+7900,tamaulipas,reynosa,reynosa,operacion,auroca,contreras,garcia,aurelio,2008,56,60,axa seguros sa de cv,RNA505170500,02/06/2008
+16704,tamaulipas,victoria,ciudad victoria,operacion,estrellita,durham,acevedo,rosa maria,2009,57,60,seguros el potosi,RCGE-3236,01/07/2009
+20552,tamaulipas,el mante,ciudad mante,operacion,la casita de sol,lopez,silva,claudia patricia,2010,57,60,seguros el potosi,RCGE-2619,30/12/2010
+2660,tamaulipas,ciudad madero,ciudad madero,operacion,baby star,gea,rodriguez,marisela,2007,58,60,seguros inbursa sa,11601-30076827,03/09/2007
+7817,tamaulipas,altamira,altamira,operacion,my happy years,celerino,sequera,gabriela,2008,58,60,seguros inbursa sa,11601-30083061,02/06/2008
+8392,tamaulipas,el mante,ciudad mante,operacion,mundo nuevo,barron,gutierrez,mercedes,2008,58,60,seguros el potosi,RCGE-1073,16/06/2008
+22204,tamaulipas,victoria,ciudad victoria,operacion,magic baby,maldonado,fonseca,karla elizabeth,2012,58,60,seguros inbursa sa,11601-30069808,10/04/2012
+10096,tamaulipas,altamira,altamira,operacion,horizontes futuros,leonides,vargas,elvia,2008,59,60,seguros inbursa sa,11601-30069755,11/08/2008
+4519,tamaulipas,el mante,ciudad mante,operacion,aprendiendo a vivir,lopez,leija,irasema,2007,60,60,seguros el potosi,RCGE-1003,06/12/2007
