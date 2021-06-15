@@ -6,9 +6,6 @@ ui = dashboardPage(
     
     dashboardSidebar(
         sidebarMenu(
-            menuItem("Histograma", tabName = "Dashboard", icon = icon("dashboard")),
-            menuItem("puntos", tabName = "graph", icon = icon("area-chart")),
-            menuItem("Data Table", tabName = "data_table", icon = icon("table")),
             menuItem("Histogramas del Programa", tabName = "Dashboard", icon = icon("dashboard")),
             menuItem("Aseguradoras y Capacidad", tabName = "graph", icon = icon("area-chart")),
             menuItem("Tablas de datos", tabName = "data_table", icon = icon("table")),
